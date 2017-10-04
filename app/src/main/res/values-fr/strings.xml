@@ -9,6 +9,8 @@
     <string name="Switch_Question">qu\'est-ce que cela fait</string>
     <string name="Radio_Button">ButtondeRadio</string>
     <string name="Check_Box">BoiteCheck</string>
+    <string name="LoginButton">accee</string>
+
 
 
 </resources>

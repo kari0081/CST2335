@@ -8,5 +8,12 @@
     <string name="Switch_Question">What does this do?</string>
     <string name="Radio_Button">RadioButton</string>
     <string name="Check_Box">CheckBox</string>
+    <string name="LoginButton">Login</string>
+    <string name="dialog_message">would you like to close</string>
+    <string name="dialog_title">i am the title</string>
+    <string name ="ok">yes</string>
+    <string name ="cancel">No</string>
+    <string name ="messagePassed">msg</string>
+
 
 </resources>

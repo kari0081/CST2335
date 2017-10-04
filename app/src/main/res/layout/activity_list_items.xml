@@ -18,20 +18,28 @@
         android:text="@string/Radio_Button" />
 
     <CheckBox
-
+        android:id="@+id/checkbox"
         android:layout_columnWeight="1"
         android:gravity="fill"
         android:text="@string/Check_Box" />
     <Switch
-
+        android:id="@+id/switchobbject"
         android:layout_columnWeight="1"
         android:gravity="fill"
         android:text="@string/Switch_Question"
+        android:layout_width="205dp"
 
-        android:layout_width="205dp" />
+
+
+        />
+
 
      <ImageButton
-
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_column="1"
+         android:layout_row="1"
+         android:id="@+id/mycamera"
          android:layout_columnWeight="1"
          android:gravity="fill"
          android:src="@android:drawable/ic_menu_camera"
